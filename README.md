@@ -19,6 +19,9 @@ This repository contains solutions developed by **Team Byte Force** for selected
 - **Solution Repository:** [GITHUB_REPO_LINK_PS8](https://github.com/Dhruta25/wevolve-ps8-byte-force.git)
 - **YouTube Demo:** [YOUTUBE_LINK_PS8](https://youtu.be/_v7zeeH8C_c)
 
+### 🔹 Problem Statement No. 10
+- **Solution Repository:** [GITHUB_REPO_LINK_PS10](https://github.com/Dhruta25/wevolve-ps10-byte_force.git)
+
 ---
 
 ## 👥 Team Details
@@ -37,5 +40,21 @@ This repository contains solutions developed by **Team Byte Force** for selected
 
 ---
 
-## 📫 Contact
-For queries or collaboration, feel free to reach out to any team member via GitHub or the provided contact links.
+
+<h2 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?
+    font=Inter&
+    weight=600&
+    size=26&
+    pause=1000&
+   color=A5F3FC
+&
+    center=true&
+    vCenter=true&
+    width=520&
+    lines=January+Cohort+2026+%7C+NIT+Rourkela"
+    alt="January Cohort 2026 NIT Rourkela"
+  />
+</h2>
+
